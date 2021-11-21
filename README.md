@@ -2,4 +2,6 @@
 
 ## Note
 
-Please composer install first
+- Please composer install first
+- Copy .env.example and rename to.env
+- Change DB_DATABASE dir to laragon absolute path
